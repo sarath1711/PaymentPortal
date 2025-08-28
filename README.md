@@ -7,7 +7,6 @@ In addition to core payment management, it integrates **advanced AI-based automa
 ---
 
 ## 📂 Project Structure
-
 PaymentPortal/
 │── db.sqlite3 # SQLite database file
 │── manage.py # Django project management script
@@ -19,8 +18,6 @@ PaymentPortal/
 ├── media/ # Uploaded media files
 └── paymentsportal/ # Core project settings and configuration
 
-markdown
-Copy code
 
 ---
 
