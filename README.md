@@ -6,7 +6,18 @@ In addition to core payment management, it integrates **advanced AI-based automa
 
 ---
 
+## 📂 Project Structure
 
+PaymentPortal/
+│── db.sqlite3              # SQLite database file for development
+│── manage.py               # Django management script for running commands
+│
+├── registration/           # Django app handling user authentication and registration
+├── static/                 # Static files (CSS, JavaScript, images)
+├── templates/              # HTML templates for rendering the frontend
+├── local/                  # Local configurations (e.g., settings, environment variables)
+├── media/                  # Uploaded media files (e.g., user-uploaded content)
+└── paymentsportal/         # Core project settings and configuration
 
 
 ---
